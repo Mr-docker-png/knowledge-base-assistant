@@ -1,0 +1,3 @@
+Arduino is a microcontroller plateform.
+Arduino projects use sensors.
+Robotics and Arduino work together.

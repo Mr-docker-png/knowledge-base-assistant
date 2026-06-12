@@ -1,0 +1,5 @@
+Python is a programming language.
+
+Python is used for machine learning.
+
+Python is easy to learn.

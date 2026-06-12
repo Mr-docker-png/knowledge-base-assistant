@@ -1,0 +1,5 @@
+Machine Learning is a branch of Artificial Intelligence.
+
+Machine Learning allows computers to learn patterns from data.
+
+Common algorithms include Linear Regression, KNN, Random Forest and Neural Networks.

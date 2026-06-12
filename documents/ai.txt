@@ -1,0 +1,5 @@
+Artificial Intelligence is the field of creating intelligent systems.
+
+AI includes Machine Learning, Deep Learning and Natural Language Processing.
+
+AI is used in chatbots, self-driving cars and recommendation systems.

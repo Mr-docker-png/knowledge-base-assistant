@@ -1,0 +1,5 @@
+Electronics deals with circuits and electronic components.
+
+Common components include resistors, capacitors and transistors.
+
+Electronics is used in robotics and embedded systems.
